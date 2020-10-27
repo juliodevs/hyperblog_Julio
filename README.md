@@ -13,6 +13,12 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Creado por el increible platzi team
+<<<<<<< HEAD
 * Apoyado por Julio César Ardila
+=======
+* Experimento1
+* Creado por Julio César Ardila
+>>>>>>> 5107164...  Apoyo Julio2
+
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
